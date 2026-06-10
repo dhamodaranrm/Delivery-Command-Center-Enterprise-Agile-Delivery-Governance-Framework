@@ -1,5 +1,7 @@
 # Delivery Command Center – Enterprise Agile Delivery & Governance Framework
 
+Enterprise Agile Delivery • Sprint Governance • Delivery Leadership • Continuous Improvement
+
 ## Overview
 
 Delivery Command Center is a portfolio project that demonstrates how enterprise technology initiatives can be planned, governed, delivered, and continuously improved through Agile Delivery leadership.
